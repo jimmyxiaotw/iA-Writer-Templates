@@ -48,7 +48,7 @@ html {
 
 @media screen and (min-width: 520px) {
   .markdown-body {
-    --horizontal-padding: 45px;
+    --horizontal-padding: 15px;
   }
 }
 
